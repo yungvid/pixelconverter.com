@@ -1,0 +1,89 @@
+body{
+    background: #F4F4F4;
+    }
+    header h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    }
+        
+    header{
+    width: 550px;
+    height: 150px;
+    padding-top: 5px;
+    text-align: center;
+    background: #6943FF;
+    }
+        
+    header input{
+    box-sizing: border-box;
+    width: 117px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    background: #6943FF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: #000000;
+    }
+    header button{
+    width: 117px;
+    height: 42px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    }
+        section{
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+          margin: 10px 25px;
+        }
+    .result{
+    width: 500px;
+    text-align: center;
+    height: 100px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    }
+    .result h4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #5A537B;
+    }
+        
+    .result p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    color: #353535;
+    }
+    
+    main{
+    margin: 20px 30%;
+    width: 600px;
+        }
+        
+    .input{
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin-top: 20px;
+    }
+        
+        #box{
+          height: 43px;
+          display: block;
+          border-radius: 5px;
+        }
+    .unitconverter h1{
+      
+    }
